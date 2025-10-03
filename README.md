@@ -63,7 +63,8 @@ It delivers a **seamless shopping experience** with authentication, product cata
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/ecommerce-platform.git
+git clone https://github.com/JatinJoshi07/ShopEasy-E-Commerce_Platform
+.git
 
 # Navigate into the project
 cd ecommerce-platform
